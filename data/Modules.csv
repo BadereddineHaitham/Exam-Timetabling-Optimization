@@ -1,0 +1,33 @@
+id,name,instructor_id,specialty
+C1,SIG,I1,ISI & SIW
+C2,Robotique,I2,ISI & IASD
+C3,Éthique professionnelle,I3,ISI & SIW & IASD
+C4,Fouille de données,I4,ISI & SIW
+C5,Innovation,I5,ISI & SIW & IASD
+C6,Computing,I6,ISI & SIW
+C7,IoT,I7,ISI & SIW
+C8,Big Data,I8,ISI
+C9,Advanced AI,I9,ISI
+C10,Recherche scientifique,I10,ISI & SIW & IASD
+C11,Recherche d'information,I11,ISI & SIW
+C12,SIG,I1,isi & SIW
+C13,Systèmes d'information,I2,SIW
+C14,Éthique professionnelle,I3,ISI & SIW & IASD
+C15,Fouille de données,I4,ISI & SIW
+C16,Innovation,I5,ISI & SIW & IASD
+C17,Computing,I6,ISI & SIW
+C18,IoT,I7,ISI & SIW
+C19,Base de données avancée,I8,SIW
+C20,Recherche scientifique,I9,ISI & SIW & IASD
+C21,Web,I10,SIW
+C22,Network Science,I1,IASD
+C23,Robotique,I2,ISI & IASD
+C24,Computer Vision,I3,IASD
+C25,Éthique professionnelle,I4,ISI & SIW & IASD
+C26,Innovation,I5,ISI & SIW & IASD
+C27,Fog Computing,I6,IASD
+C28,Deep Learning Avancé,I7,IASD
+C29,Advanced AI,I8,IASD
+C30,Recherche scientifique,I9,ISI & SIW & IASD
+C31,Knowledge and Graphs,I10,IASD
+C32,Data Visualisation,I11,IASD
